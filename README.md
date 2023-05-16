@@ -1,0 +1,2 @@
+# Big_Data_Analysis_Class
+大數據資料分析課程，使用爬蟲並篩選取得需要資料後在AWS進行分析
